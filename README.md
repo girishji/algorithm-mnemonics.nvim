@@ -4,7 +4,7 @@ C++ STL snippets suitable for NeoVim's Lua plugins, from Tommy Bennet's snippets
 
 You can read this [excellent explanation](https://github.com/tommybennett/algorithm-mnemonics) with [video](https://www.youtube.com/watch?v=uzc2OWVZPnM). His [talk](https://youtu.be/tSq7yDwS1vM) at CppCon.
 
-These snippets conform to LSP format, mostly sourced from David Brötje's [VScode plugin](https://marketplace.visualstudio.com/items?itemName=davidbroetje.algorithm-mnemonics-vscode).
+These snippets conform to LSP format, mostly sourced from David Brötje's [VScode extension](https://marketplace.visualstudio.com/items?itemName=davidbroetje.algorithm-mnemonics-vscode).
  
 ### Usage 
 
