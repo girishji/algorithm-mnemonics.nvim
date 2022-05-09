@@ -21,12 +21,12 @@ Use your plugin manager of choice, e.g.
 
 ```lua
 -- Packer
-use "rafamadriz/friendly-snippets"
+use "girishji/algorithm-mnemonics.nvim"
 
 -- Plug
-Plug 'rafamadriz/friendly-snippets'
+Plug 'girishji/algorithm-mnemonics.nvim'
 
 -- If you're using coc.nvim, you can use:
-CocInstall https://github.com/rafamadriz/friendly-snippets@main
+CocInstall https://github.com/girishji/algorithm-mnemonics.nvim@main
 ```
 
